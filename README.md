@@ -2,7 +2,8 @@
 DataSets links for recommender systems research, in particular for transfer learning, user representation, pre-training,lifelong learning, cold start recommendation
 
  https://drive.google.com/file/d/1imhHUsivh6oMEtEW-RwVc4OsDqn-xOaP/view?usp=sharin
- A large-scale recommmendation datasets used in 
+
+A large-scale recommmendation datasets used in 
  ```
  @inproceedings{yuan2021one,
   title={One person, one model, one world: Learning continual user representation without forgetting},
