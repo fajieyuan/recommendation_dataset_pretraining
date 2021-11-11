@@ -1,4 +1,4 @@
-# recommendation_dataset_for_pre-training & transfer learning & representation learning & lifelong learning & cross-domain recommendation & cold-start recommendation
+# recommendation_dataset_for_pre-training & transfer learning & lifelong learning & cross-domain recommendation & cold-start recommendation
 
 DataSets links for recommender systems research, in particular for transfer learning, user representation, pre-training,lifelong learning, cold start recommendation
 
