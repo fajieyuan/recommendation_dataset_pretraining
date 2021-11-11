@@ -23,4 +23,4 @@ A large-scale recommmendation datasets used in
 ```
 including over 1 million users and around 0.5million items and almost 100 million behaviors.
 
-The dataset is of high quality and you may find that by pretraining in advance could really benefit the new recommendation tasks. It can be used to evaluate deep learning models built for transfer learning, pretraining, cross-domain recommendation, multi-task recommendation and lifelong learning.
+The dataset is of high quality and you may find that by pretraining in advance could really benefit the new recommendation tasks. It can be used to evaluate deep learning models built for transfer learning, pretraining, cross-domain recommendation, multi-task recommendation and lifelong learning, cold-user recommendation and user profile prediction, session-based recommendation etc.
