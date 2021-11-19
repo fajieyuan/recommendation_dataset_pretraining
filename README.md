@@ -26,4 +26,4 @@ including over 1 million users and around 0.5million items and almost 100 millio
 
 The dataset is of high quality and you may find that by pretraining in advance could really benefit the new recommendation tasks. It can be used to evaluate deep learning models built for transfer learning, pretraining, cross-domain recommendation, multi-task recommendation and lifelong learning, cold-user recommendation and user profile prediction, session-based recommendation etc.
 
-# I have other large-scale datasets that contains four recommendation scenarios. Please contact me if you need it. yuanfajie@westlake.edu.cn
+# I have several other large-scale datasets that contain four recommendation scenarios. Please contact me if you need them. yuanfajie@westlake.edu.cn
